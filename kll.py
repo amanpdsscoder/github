@@ -1,0 +1,1 @@
+print("{'Emplno':1251, 'Name':'Kunal','Age':25, 'Salary':57000}",'\n',"Records(s) successfully updated.")
