@@ -7,6 +7,6 @@ class Dice():
         print(f"Dice Rolled for{i+1}th time = {self.value}")
         return self.value
 dice= Dice()
-n = int(input("How many times you want to roll a dice: "))
+n = int(input("How many times u want to roll a dice: "))
 for i in range(n):
     dice.roll()
